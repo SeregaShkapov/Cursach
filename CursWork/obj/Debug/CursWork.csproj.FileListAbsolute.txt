@@ -1,0 +1,10 @@
+C:\Users\Matve\Desktop\SergSkapov\CursWork\bin\Debug\CursWork.exe.config
+C:\Users\Matve\Desktop\SergSkapov\CursWork\bin\Debug\CursWork.exe
+C:\Users\Matve\Desktop\SergSkapov\CursWork\bin\Debug\CursWork.pdb
+C:\Users\Matve\Desktop\SergSkapov\CursWork\obj\Debug\CursWork.csproj.AssemblyReference.cache
+C:\Users\Matve\Desktop\SergSkapov\CursWork\obj\Debug\CursWork.Form1.resources
+C:\Users\Matve\Desktop\SergSkapov\CursWork\obj\Debug\CursWork.Properties.Resources.resources
+C:\Users\Matve\Desktop\SergSkapov\CursWork\obj\Debug\CursWork.csproj.GenerateResource.cache
+C:\Users\Matve\Desktop\SergSkapov\CursWork\obj\Debug\CursWork.csproj.CoreCompileInputs.cache
+C:\Users\Matve\Desktop\SergSkapov\CursWork\obj\Debug\CursWork.exe
+C:\Users\Matve\Desktop\SergSkapov\CursWork\obj\Debug\CursWork.pdb

@@ -1,0 +1,14 @@
+void main() {
+int a, b;
+ switch(a) {
+  case 1:
+   switch(b) {
+	case 25:
+		b = b - 25;
+	case 26:
+		a = a * 25;
+		}
+  case 2:
+   b = b - 25;
+ }
+}
